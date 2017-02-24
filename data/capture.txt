@@ -1,0 +1,47 @@
+	moving right
+
+38	no obstacle	 moving forward
+
+3150	no obstacle	 moving forward
+
+3	obstacle	stop	right dist=139	left dist=52	moving right
+
+301	no obstacle	 moving forward
+
+302	no obstacle	 moving forward
+
+333	no obstacle	 moving forward
+
+303	no obstacle	 moving forward
+
+4	obstacle	stop	right dist=17	left dist=34	moving left
+
+18	obstacle	stop	right dist=243	left dist=43	moving right
+
+113	no obstacle	 moving forward
+
+100	no obstacle	 moving forward
+
+80	no obstacle	 moving forward
+
+59	no obstacle	 moving forward
+
+82	no obstacle	 moving forward
+
+20	obstacle	stop	right dist=84	left dist=38	moving right
+
+119	no obstacle	 moving forward
+
+112	no obstacle	 moving forward
+
+83	no obstacle	 moving forward
+
+82	no obstacle	 moving forward
+
+77	no obstacle	 moving forward
+
+56	no obstacle	 moving forward
+
+3126	no obstacle	 moving forward
+
+5	obstacle	stop	right dist=51
